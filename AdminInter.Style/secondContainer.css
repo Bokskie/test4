@@ -1,0 +1,29 @@
+.second-container
+{
+    background: #ffffff;
+    width: calc(100% - 150px);
+    position: relative;
+    left: 75px;
+    height: 60vh;
+    font-family: sans-serif;
+    border-radius: 1rem;
+    box-shadow: 3px 1px 2px #000;
+}
+.second-container h1 
+{
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 26px;
+}
+.second-container .recently-order
+{
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.second-container .recently-order h3 
+{
+    font-size: 14px;
+
+}
